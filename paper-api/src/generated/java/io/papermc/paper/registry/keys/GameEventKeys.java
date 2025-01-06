@@ -23,8 +23,8 @@ import org.jspecify.annotations.NullMarked;
         "unused",
         "SpellCheckingInspection"
 })
-@GeneratedFrom("1.21.4")
 @NullMarked
+@GeneratedFrom("1.21.4")
 @ApiStatus.Experimental
 public final class GameEventKeys {
     /**
@@ -451,7 +451,7 @@ public final class GameEventKeys {
     }
 
     /**
-     * Creates a key for {@link GameEvent} in the registry {@code minecraft:game_event}.
+     * Creates a typed key for {@link GameEvent} in the registry {@code minecraft:game_event}.
      *
      * @param key the value's key in the registry
      * @return a new typed key

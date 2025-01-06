@@ -23,8 +23,8 @@ import org.jspecify.annotations.NullMarked;
         "unused",
         "SpellCheckingInspection"
 })
-@GeneratedFrom("1.21.4")
 @NullMarked
+@GeneratedFrom("1.21.4")
 @ApiStatus.Experimental
 public final class JukeboxSongKeys {
     /**
@@ -164,7 +164,7 @@ public final class JukeboxSongKeys {
     }
 
     /**
-     * Creates a key for {@link JukeboxSong} in the registry {@code minecraft:jukebox_song}.
+     * Creates a typed key for {@link JukeboxSong} in the registry {@code minecraft:jukebox_song}.
      *
      * @param key the value's key in the registry
      * @return a new typed key

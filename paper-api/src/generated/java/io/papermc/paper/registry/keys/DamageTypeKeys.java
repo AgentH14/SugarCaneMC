@@ -23,8 +23,8 @@ import org.jspecify.annotations.NullMarked;
         "unused",
         "SpellCheckingInspection"
 })
-@GeneratedFrom("1.21.4")
 @NullMarked
+@GeneratedFrom("1.21.4")
 @ApiStatus.Experimental
 public final class DamageTypeKeys {
     /**
@@ -374,7 +374,7 @@ public final class DamageTypeKeys {
     }
 
     /**
-     * Creates a key for {@link DamageType} in the registry {@code minecraft:damage_type}.
+     * Creates a typed key for {@link DamageType} in the registry {@code minecraft:damage_type}.
      *
      * @param key the value's key in the registry
      * @return a new typed key

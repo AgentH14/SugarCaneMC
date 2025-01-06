@@ -23,8 +23,8 @@ import org.jspecify.annotations.NullMarked;
         "unused",
         "SpellCheckingInspection"
 })
-@GeneratedFrom("1.21.4")
 @NullMarked
+@GeneratedFrom("1.21.4")
 @ApiStatus.Experimental
 public final class StructureKeys {
     /**
@@ -269,7 +269,7 @@ public final class StructureKeys {
     }
 
     /**
-     * Creates a key for {@link Structure} in the registry {@code minecraft:worldgen/structure}.
+     * Creates a typed key for {@link Structure} in the registry {@code minecraft:worldgen/structure}.
      *
      * @param key the value's key in the registry
      * @return a new typed key
